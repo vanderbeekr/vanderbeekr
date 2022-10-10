@@ -1,4 +1,4 @@
-title: Melotta
+title: Chestnut Grove Home
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Melotta is a modern and minimal Jekyll theme for sharing your ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Sasha Levi
+  name: Rachel van der Beek
   image: '/images/01.jpg'
 
 # Contact links
